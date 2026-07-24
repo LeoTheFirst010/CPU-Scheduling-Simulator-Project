@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Java console application that simulates and compares several CPU scheduling algorithms. It was developed from scratch for the CS 3502 Operating Systems CPU Scheduling Project.
+This project is a Java console application that simulates and compares several CPU scheduling algorithms. It was developed from scratch for the CPU Scheduling Project for my CS3502 Operating System class.
 
 The simulator runs the same processes through each scheduling algorithm and calculates performance metrics. Using the same workload for every algorithm creates a fair comparison.
 
